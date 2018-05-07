@@ -149,7 +149,7 @@ contributors: Richard Gibson
       <li>
         The SV of <emu-grammar>DoubleStringCharacter :: &lt;PS&gt;</emu-grammar> is the code unit value 0x2029.
       </li>
-      <ins>
+      </ins>
       <li>
         The SV of <emu-grammar>DoubleStringCharacter :: `\` EscapeSequence</emu-grammar> is the SV of the |EscapeSequence|.
       </li>
